@@ -4,5 +4,5 @@ int a=1;
 int b=2;
 int d=3;
 int c=a+b+d;
-cout<<d;
+cout<<c;
 }
