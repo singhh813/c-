@@ -6,6 +6,8 @@ int d=3;
 int c=a+b+d;
 cout<<c;
   cout<<c;
+  cout<<c;
+  cout<<c;
   
   cout<<d;
 }
