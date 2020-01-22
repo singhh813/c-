@@ -5,4 +5,5 @@ int b=2;
 int d=3;
 int c=a+b+d;
 cout<<c;
+  cout<<d;
 }
